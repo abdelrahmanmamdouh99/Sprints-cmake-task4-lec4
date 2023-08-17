@@ -1,0 +1,16 @@
+/home/abdelrahman/Task4/build/CMakeFiles/program.dir
+/home/abdelrahman/Task4/build/CMakeFiles/test.dir
+/home/abdelrahman/Task4/build/CMakeFiles/edit_cache.dir
+/home/abdelrahman/Task4/build/CMakeFiles/rebuild_cache.dir
+/home/abdelrahman/Task4/build/CMakeFiles/list_install_components.dir
+/home/abdelrahman/Task4/build/CMakeFiles/install.dir
+/home/abdelrahman/Task4/build/CMakeFiles/install/local.dir
+/home/abdelrahman/Task4/build/CMakeFiles/install/strip.dir
+/home/abdelrahman/Task4/build/library/CMakeFiles/WriteInFile.dir
+/home/abdelrahman/Task4/build/library/CMakeFiles/test.dir
+/home/abdelrahman/Task4/build/library/CMakeFiles/edit_cache.dir
+/home/abdelrahman/Task4/build/library/CMakeFiles/rebuild_cache.dir
+/home/abdelrahman/Task4/build/library/CMakeFiles/list_install_components.dir
+/home/abdelrahman/Task4/build/library/CMakeFiles/install.dir
+/home/abdelrahman/Task4/build/library/CMakeFiles/install/local.dir
+/home/abdelrahman/Task4/build/library/CMakeFiles/install/strip.dir
